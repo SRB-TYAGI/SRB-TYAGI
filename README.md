@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on VLSI projects, FPGA designs..
 - 📫 How to reach me: sourabhtyagi750@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I designed a 3 DOF manipulator robot for pick-and-place operations and worked on SRAM 6T Cell in Cadence Virtuoso!
+- ⚡ Fun fact: I designed a 3 DOF manipulator robot for pick-and-place operations and worked on SRAM 6T Cell and design combinational circuits in Cadence Virtuoso!
 
 <!---
 SRB-TYAGI/SRB-TYAGI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
