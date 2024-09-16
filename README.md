@@ -1,5 +1,5 @@
 - Hi there! 👋 I'm @SRB-TYAGI
-- 👀 I’m interested in Electronics and VLSI design.
+- 👀 I’m interested in 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜𝐬 𝐚𝐧𝐝 𝐕𝐋𝐒𝐈 𝐝𝐞𝐬𝐢𝐠𝐧.
 - 🌱 I’m currently learning combinational circuits design and exploring FPGA Zynq-7000 with Vivado HLS.
 - 💼 I'm also involved in exploring innovations in sustainable technology.
 - 💞️ I’m looking to collaborate on VLSI projects, FPGA designs..
