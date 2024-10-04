@@ -4,8 +4,8 @@
 ## 🚀 About Me
 I'm a **BTech student specializing in VLSI at VIT-AP** with a passion for **Very-Large-Scale Integration (VLSI)** and **Digital Design**. My journey in the field of **Semiconductor Devices, Microprocessors**, and **FPGA Development** has helped me explore and design circuits and architectures for the next generation of tech.
 
-- 💻 I have hands-on experience with **Cadence Virtuoso**, **Xilinx Vivado**,**EDA PLAGROUND**,**LTspice**,**Multisim** and **FPGA Zynq-7000**.
-- 🔧 Designed digital logic circuits, including **Baic Logic Gates,Arithmetic Circuits, Multiplexers, Encoders, Decoders**, and **Flip-flops**.
+- 💻 I have hands-on experience with **Cadence Virtuoso**, **Xilinx Vivado**,**EDA PLAGROUND**, and **FPGA Zynq-7000**.
+- 🔧 Designed digital logic circuits, including **Basic Logic Gates,Arithmetic Circuits, Multiplexers, Encoders, Decoders**, and **Flip-flops**.
 - 🛠️ Worked on projects like **SRAM 6T Cell**, **Combinational Circuits**, and **3 DOF Manipulator Robot**.
 
 ## 📚 What I’m Learning
@@ -14,7 +14,7 @@ I'm a **BTech student specializing in VLSI at VIT-AP** with a passion for **Very
 
 ## 🛠️ Tech Stack
 - **Languages**: C, Java, Python, Verilog
-- **VLSI Tools**: Cadence Virtuoso, Vivado HLS
+- **VLSI Tools**: Cadence Virtuoso, Xilinx Vivado,Eda plyground.
 - **Cloud Platforms**: AWS
 
 ## 👯 I’m looking to collaborate on
@@ -33,11 +33,12 @@ I'm a **BTech student specializing in VLSI at VIT-AP** with a passion for **Very
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srb-tyagi" alt="srb-tyagi" /></a> </p>
 
-- 📫 How to reach me **sourabhtyagi750@gmail.com**
+## 📫 How to reach me
+- 📧 Email: sourabhtyagi750@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srb-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srb-tyagi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srb-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srb-tyagi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
