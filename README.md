@@ -29,9 +29,22 @@ I'm a **BTech student specializing in VLSI at VIT-AP** with a passion for **Very
 - **Static Timing Analysis (STA)**: Looking for guidance on mastering **clock tree synthesis (CTS)** and **timing analysis** techniques.
 - **Power Optimization Techniques**: Learning more about **low-power design methodologies** for digital circuits.
 
+- 
+## ☁️ AWS Cloud Computing Skills
+
+### 🌐 Key Skills
+- **Cloud Services**: Proficient in IaaS, PaaS, SaaS models
+- **AWS Services**: Familiar with EC2, S3, RDS, Lambda, and IAM
+- **Cloud Architecture**: Knowledge of designing scalable and reliable cloud architectures
+
+### 📚 Currently Learning
+- Exploring AWS services like **AWS Lambda** for serverless computing and **AWS CloudFormation** for infrastructure as code.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srb-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="srb-tyagi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srb-tyagi" alt="srb-tyagi" /></a> </p>
+
+
 
 ## 📫 How to reach me
 - 📧 Email: sourabhtyagi750@gmail.com
