@@ -2,11 +2,23 @@
 <h3 align="center">A passionate VLSI Enthusiast from India</h3>
 
 ## 🚀 About Me
-I'm a **BTech student specializing in VLSI at VIT-AP** with a passion for **Very-Large-Scale Integration (VLSI)** and **Digital Design**. My journey in the field of **Semiconductor Devices, Microprocessors**, and **FPGA Development** has helped me explore and design circuits and architectures for the next generation of tech.
+<p>I am a <strong>B.Tech Electronics and Communication Engineering student at VIT-AP</strong>, specializing in <strong>VLSI design</strong> with hands-on experience in <strong>RTL-to-GDSII flow, analog/digital/mixed-signal circuits</strong>, and <strong>semiconductor technology</strong>. My academic journey is complemented by internships and projects that bridge theory with real-world applications in <strong>chip design, FPGA systems</strong>, and <strong>circuit verification</strong>.</p>
 
-- 💻 I have hands-on experience with **Cadence Virtuoso**, **Xilinx Vivado**,**EDA PLAGROUND**, and **FPGA Zynq-7000**.
-- 🔧 Designed digital logic circuits, including **Basic Logic Gates,Arithmetic Circuits, Multiplexers, Encoders, Decoders**, and **Flip-flops**.
-- 🛠️ Worked on projects like **SRAM 6T Cell**, **Combinational Circuits**, and **3 DOF Manipulator Robot**.
+<h3>💻 Core Expertise</h3>
+<ul>
+  <li><strong>VLSI Design:</strong> Verilog, SystemVerilog, UVM, RTL-to-GDSII, Static Timing Analysis</li>
+  <li><strong>EDA Tools:</strong> Cadence Virtuoso, Genus, Innovus, Tempus, Voltus, Xilinx Vivado</li>
+  <li><strong>Circuit Design:</strong> 6T SRAM, Op-Amps, Amplifiers, Data Converters, Logic Circuits</li>
+  <li><strong>Programming:</strong> Python, Java, C, Embedded C | MATLAB, ROS</li>
+  <li><strong>Hardware:</strong> Oscilloscope, Multimeter, Signal Generators, FPGA (Zynq-7000)</li>
+</ul>
+
+<h3>📌 Key Experiences</h3>
+<ul>
+  <li><strong>IIT Jammu (Summer Intern, 2025):</strong> Designed Verilog-based hardware blocks for a <strong>Quantum Key Distribution (QKD) pipeline</strong> on FPGA, achieving sub-µs latency and &lt;10% LUT usage. Integrated radix-16 NTT architecture for secure key compression.</li>
+  <li><strong>MANIT Bhopal (Summer Intern, 2024):</strong> Developed a <strong>3-DOF robotic manipulator</strong> with trajectory planning in MATLAB, integrating voice and vision-based control in ROS.</li>
+</ul>
+
 
 ## 📚 What I’m Learning
 - **Physical Design** and **Static Timing Analysis**.
